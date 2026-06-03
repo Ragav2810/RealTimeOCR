@@ -5,7 +5,6 @@ import time
 import queue
 import base64
 import requests
-# import keyboard
 import multiprocessing
 from ultralytics import YOLO
 from logger import get_logger, disable_console_logging
